@@ -4,7 +4,7 @@
 
 <p align="center">
 
-  <img src=""https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="500" height="400">
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="500" height="400">
   
 <a href="https://twitter.com/ManasaSamaga">
   <img align="left" alt="Manasa's | Twitter" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" draggable="false" />
