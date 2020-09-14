@@ -1,5 +1,4 @@
-### Hi there I'm Manasa Samaga👋
-
+# Hey <img src="" width="40px">, I'm [Manasa!](https://github.com/manasasamaga) 
 
 
 <p align="center">
