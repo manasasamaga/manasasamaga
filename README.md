@@ -1,4 +1,4 @@
-# Hey <img src="" width="40px">, I'm [Manasa!](https://github.com/manasasamaga) 
+# Hey <img src="https://github.com/manasasamaga/manasasamaga/blob/master/wave.gif" width="40px">, I'm [Manasa!](https://github.com/manasasamaga) 
 
 
 <p align="center">
